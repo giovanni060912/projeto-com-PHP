@@ -1,0 +1,14 @@
+.body {
+    width: 100%;
+    display: flex;
+   flex-wrap: wrap;
+}
+.formulario {
+    flex-direction: column ;
+    justify-content: center;
+}
+.img {
+    width:50em;
+    
+
+}
